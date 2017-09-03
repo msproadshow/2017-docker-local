@@ -57,9 +57,9 @@
 
 
 ## Dev-docker-compose
-#### Makefile
+### Makefile
 * [.PHONY](https://stackoverflow.com/questions/2145590/what-is-the-purpose-of-phony-in-a-makefile)
 
-#### YAML
+### YAML
 * [YAML has inheritance](https://stackoverflow.com/questions/14184971/more-complex-inheritance-in-yaml)
 * [Python "!include" realization](https://stackoverflow.com/a/9577670/8477497)
