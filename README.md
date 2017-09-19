@@ -5,7 +5,10 @@
 
 
 # Слайди
-
+* [MSPRoadshow - Kyiv](https://github.com/msproadshow/2017-docker-local/blob/master/materials/MSPRoadshow%20Docker%20-%20Kyiv.pdf)
+* [MSPRoadshow - Dnipro & Vinnytsia](https://github.com/msproadshow/2017-docker-local/blob/master/materials/MSPRoadshow%20Docker%20-%20Dnipro%2C%20Vinnytsia.pdf)
+* [MSPRoadshow - Odesa & Lviv](https://github.com/msproadshow/2017-docker-local/blob/master/materials/MSPRoadshow%20Docker%20-%20Odesa%2C%20Lviv.pdf)
+* [DataArt User Group Odesa](https://github.com/msproadshow/2017-docker-local/blob/master/materials/User%20group%20DataArt.pdf)
 
 # Корисні посилання
 
