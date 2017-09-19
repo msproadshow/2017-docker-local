@@ -1,5 +1,4 @@
-# Production environment на вашому компі
-### або Як позбавитись "на моїй машині працює" за допомогою Docker
+# Docker-compose, vagga і інші «страшні» слова
 
 #### Коротке посилання на репу: [bit.ly/msp-docker](http://bit.ly/msp-docker)
 
