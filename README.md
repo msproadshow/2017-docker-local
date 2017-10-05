@@ -24,6 +24,7 @@
 * [Знакомимся с основными возможностями Docker](https://xakep.ru/2015/06/01/docker-usage/)
 * [Container Technologies Overview](https://dzone.com/articles/container-technologies-overview)
 * [Образы и контейнеры Docker в картинках](https://habrahabr.ru/post/272145/)
+* [Docker Interview Question and Answers](https://foxutech.com/docker-interview-question-and-answers/)
 
 #### Робота з Docker
 
@@ -32,7 +33,6 @@
 * [Підходи до контейнеризації, їх плюси і мінуси](https://stackoverflow.com/questions/24928772/docker-how-to-dockerize-and-deploy-multiple-instances-of-a-lamp-application)
 * [O'Reilly - Основы Docker](http://onreader.mdl.ru/UsingDocker/content/Ch04.html)
 * [Шпаргалка с командами Docker](https://habrahabr.ru/company/flant/blog/336654/)
-
 
 ### Advanced
 
